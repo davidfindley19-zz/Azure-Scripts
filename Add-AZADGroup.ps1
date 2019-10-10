@@ -11,7 +11,7 @@ function Add-AzADGroup{
     Version: 1.1
     Change Log:
                 1.0 (10/1) - Initial version of the script. 
-                1.1 (1/10) - Updated to check for Azure AD connection and added line for secondary owner.
+                1.1 (10/10) - Updated to check for Azure AD connection and added line for secondary owner.
 #>
 
 # Checks the connection to the Azure AD tenant.
